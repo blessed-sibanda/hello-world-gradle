@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: helloWorldGradle
+netty:
+  default:
+    allocator:
+      max-order: 3
